@@ -6,6 +6,10 @@ Indo além do Statement e do ResultSet
 Encapsule o acesso em um DAO
 Connection pool, datasources e outros recursos importantes
 
+BANDO DE DADOS MY SQL
+JAVA 11
+IDE ECPLIPSE
+
 
 Aulas
 Introdução ao JDBC e o padrão Factory 
