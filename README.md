@@ -8,9 +8,9 @@ Connection pool, datasources e outros recursos importantes
 
 BANDO DE DADOS MY SQL
 
-JAVA 11
+JAVA JDK 11.0.12
 
-IDE ECPLIPSE
+IDE ECLIPSE
 
 
 Aulas
