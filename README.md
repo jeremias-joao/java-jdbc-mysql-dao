@@ -7,7 +7,9 @@ Encapsule o acesso em um DAO
 Connection pool, datasources e outros recursos importantes
 
 BANDO DE DADOS MY SQL
+
 JAVA 11
+
 IDE ECPLIPSE
 
 
